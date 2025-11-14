@@ -1,0 +1,153 @@
+FINANCIAL ASSESSMENT REPORT TEMPLATE
+=====================================
+
+Copy and paste this template into the chatbot's multi-line query box:
+
+---
+
+Generate a comprehensive financial assessment report for the company [Company Name] for the financial year FY[Start–End Year].
+
+The report should be written in a professional, analytical, and neutral tone, suitable for investors, analysts, and management review.
+
+Avoid assuming any specific industry or sector context.
+Instead, generalize business segments, financials, and operations according to the company's available data or public disclosures.
+
+Assessment Note on FY[Year]
+
+Date: [Insert Date]
+Company: [Company Name]
+Credit Rating (if available): [Insert or "Not Rated"]
+
+1. Summary / Overview
+
+Provide a concise overview of the company's overall performance for the year, including:
+
+Total revenue and profit growth or decline
+
+Key financial and operational highlights
+
+Major developments (e.g., acquisitions, expansions, restructuring, new markets, etc.)
+
+Market conditions or macroeconomic influences that impacted performance
+
+2. Key Positives & Negatives
+
+Positive Factors:
+
+[Strong revenue growth / improved margins / cost efficiency / new products / debt reduction]
+
+Negative Factors:
+
+[High input costs / weak demand / regulatory issues / lower margins / competitive pressures]
+
+Summarize both internal strengths and external challenges influencing performance.
+
+3. Consolidated Financial Performance (YoY)
+Particulars	FY[End Year]	FY[Previous Year]	YoY %
+Revenue from Operations			
+EBITDA			
+PBT			
+PAT			
+EBITDA Margin (%)			
+PAT Margin (%)			
+
+Comments:
+
+Describe the major drivers of revenue and profitability changes.
+
+Mention cost optimization, efficiency improvements, or market-driven impacts.
+
+Highlight any exceptional items or one-time gains/losses.
+
+4. Financial Ratios
+Metric	FY[End Year]	FY[Previous Year]	Change / Comments
+Debt-Equity Ratio			
+Interest Coverage Ratio			
+Current Ratio			
+Return on Equity (ROE)			
+Inventory Turnover			
+Debtors Turnover			
+Net Worth			
+
+Provide brief interpretations explaining what these ratios suggest about liquidity, solvency, profitability, and operational efficiency.
+
+5. Standalone Financial Performance (YoY)
+
+(If applicable)
+
+Particulars	FY[End Year]	FY[Previous Year]	YoY %
+Revenue from Operations			
+EBITDA			
+PBT			
+PAT			
+EBITDA Margin (%)			
+PAT Margin (%)			
+
+Comments:
+
+Highlight standalone operational trends, cost movements, or strategic factors.
+
+6. Segment Information (If Reported)
+Segment	FY[End Year] Revenue	FY[Previous Year] Revenue	YoY %	EBIT Margin	Comments
+Segment 1					
+Segment 2					
+Segment 3					
+
+Briefly explain performance and growth drivers across segments.
+Note any major product/service lines or markets contributing to results.
+
+7. Management Discussion / Conference Call Highlights
+
+Summarize management commentary or public statements (if available):
+
+Business environment and market trends
+
+Key cost drivers and input price movements
+
+Expansion, R&D, or technology initiatives
+
+Supply chain or operational challenges
+
+Financial discipline and capital allocation strategies
+
+8. Future Outlook / Guidance
+
+Provide 3–5 concise points summarizing the company's forward-looking plans and expectations:
+
+Growth or expansion targets
+
+New products, services, or partnerships
+
+Anticipated macroeconomic or policy influences
+
+Profitability outlook and risk management approach
+
+9. References
+
+Include links to relevant sources:
+
+Annual Report FY[End Year]
+
+Investor Presentation
+
+Earnings Call Transcript
+
+Stock Exchange Filings
+
+Company Website
+
+---
+
+FORMATTING GUIDELINES:
+- Keep tone neutral, factual, and analytical
+- Avoid sector-specific jargon unless explicitly present in the company's disclosures
+- Use placeholders ("N/A" or "Data not disclosed") where information is missing
+- Maintain clear headings, spacing, and table formatting
+- The report should be presentation-ready and suitable for internal or external sharing
+
+INSTRUCTIONS FOR USE:
+1. Copy this entire template
+2. Paste it into the multi-line query box in the chatbot
+3. Replace placeholders like [Company Name], [Start–End Year] with actual values if known
+4. Click submit and wait for the comprehensive report
+5. The AI will extract all financial data from the processed PDFs and populate this template

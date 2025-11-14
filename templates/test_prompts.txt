@@ -1,0 +1,155 @@
+TEST PROMPTS FOR COMPREHENSIVE REPORTS (ANTI-HALLUCINATION VERSION)
+======================================================================
+
+⚠️ CRITICAL IMPROVEMENT NOTES:
+- System now enforces STRICT data fidelity rules
+- Segments validated against source documents ONLY
+- No estimates or projections unless explicitly disclosed
+- Mathematical validation for all calculations
+- Enhanced disclaimers for data transparency
+
+OPTION 1: Strict Data Fidelity Report (RECOMMENDED)
+----------------------------------------------------
+Generate a comprehensive financial assessment report with STRICT adherence to source document data.
+
+🚨 CRITICAL RULES TO ENFORCE:
+1. Business Segments: Extract ONLY segments explicitly named in the Annual Report. Do NOT invent segments.
+2. Financial Figures: Use EXACT published numbers from documents. NO estimates, projections, or hallucinations.
+3. Validation: Verify Revenue > EBITDA > PBT > PAT hierarchy. Flag any inconsistencies.
+4. Disclaimers: If any data is unavailable, state clearly "Data not disclosed in available documents"
+
+Report Structure Required:
+1. Summary / Overview (facts from documents only)
+2. Key Positives & Negatives (as stated in report)
+3. Consolidated Financial Performance - YoY table with EXACT figures
+4. Financial Ratios - with plausibility checks (e.g., ITC debt-free = Debt-Equity ~0.00)
+5. Standalone Performance (only if disclosed)
+6. Segment Information - VALIDATE segment names against source
+7. Management Discussion (extract from MD&A only)
+8. Future Outlook (only stated guidance)
+9. References
+10. Data Fidelity Disclaimer - confirm all figures are from source documents
+11. AI Consistency Check - verify segment names, calculations, plausibility
+
+Extract all numbers from the annual report. Do NOT generate or estimate any figures.
+
+
+OPTION 2: ITC Limited Specific - Anti-Hallucination Test
+--------------------------------------------------------
+Create a detailed financial report for ITC Limited with enhanced validation:
+
+**Segment Validation:**
+⚠️ ITC's OFFICIAL segments are: FMCG, Hotels, Agri Business, Paperboards & Packaging
+⚠️ DO NOT include: Cement, Electronics, Engineering, or any other segments
+⚠️ Use exact terminology from Annual Report
+
+**Financial Data Validation:**
+⚠️ ITC typical revenue range: ₹60,000-70,000 Cr (FY2024-2025)
+⚠️ ITC is virtually debt-free: Debt-Equity ratio should be ~0.00 to 0.05
+⚠️ FMCG margins: EBITDA 35-40%, PAT 20-25%
+⚠️ Verify: Revenue > EBITDA > PBT > PAT (must hold true)
+
+**Consolidated Financials (Extract EXACT numbers):**
+| Particulars | FY 2025 | FY 2024 | YoY % |
+|-------------|---------|---------|-------|
+| Revenue from Operations | | | |
+| EBITDA | | | |
+| Profit Before Tax | | | |
+| Profit After Tax | | | |
+| EBITDA Margin % | | | |
+| PAT Margin % | | | |
+
+**Key Ratios (Extract EXACT numbers):**
+| Ratio | FY 2025 | FY 2024 | Plausibility Check |
+|-------|---------|---------|-------------------|
+| Debt-Equity Ratio | | | Should be ~0.00 for ITC |
+| Current Ratio | | | Typical 1.5-2.5 |
+| Return on Equity % | | | Should be 15-25% |
+| Interest Coverage | | | Very high (low debt) |
+
+**Segment Performance (OFFICIAL segments ONLY):**
+List: FMCG, Hotels, Agri Business, Paperboards & Packaging
+For each: Revenue FY2025, Revenue FY2024, YoY %, EBIT Margin
+
+**Data Fidelity Check:**
+✓ All segment names verified against Annual Report
+✓ No hallucinated financial figures
+✓ Mathematical consistency validated
+✓ Disclaimer added for any unavailable data
+
+
+OPTION 3: Quick Validation Test
+--------------------------------
+Provide a financial summary with strict validation:
+
+**Required Data:**
+- Company Name: [Extract exact name]
+- Fiscal Year: [Confirm from document]
+- Total Revenue FY2025 vs FY2024 (EXACT figures only)
+- Profit After Tax FY2025 vs FY2024 (EXACT figures only)
+- EBITDA Margin and PAT Margin for both years (CALCULATE and VERIFY)
+- Business segments (list ONLY official segments from report)
+- Key developments (ONLY those mentioned in documents)
+
+**Validation Checklist:**
+□ Revenue > EBITDA > PBT > PAT ✓
+□ Margins calculated correctly ✓
+□ Segment names match source document ✓
+□ No estimated/projected figures without disclosure ✓
+□ Debt-Equity aligns with company profile ✓
+
+
+OPTION 4: Error Detection & Correction Mode
+-------------------------------------------
+Generate a financial report with ACTIVE error detection:
+
+For each data point extracted:
+1. Verify it exists in the source document
+2. Check mathematical consistency (margins, YoY %)
+3. Cross-check plausibility (e.g., EBITDA can't exceed Revenue)
+4. Flag any anomalies with [DATA VERIFICATION NEEDED] tag
+
+Example Output Format:
+```
+Revenue FY2025: ₹67,819 Cr [✓ Verified from Consolidated P&L]
+EBITDA FY2025: ₹24,156 Cr [✓ Verified - Less than Revenue]
+EBITDA Margin: 35.6% [✓ Calculated: (24,156/67,819)×100 = 35.6%]
+Debt-Equity Ratio: 0.02 [✓ Aligns with ITC's debt-free profile]
+```
+
+Include section: "⚠️ Data Quality Report" listing any:
+- Missing data points
+- Inconsistent figures
+- Segments not validated
+- Ratios requiring verification
+
+
+HOW TO USE:
+-----------
+1. **CRITICAL:** Click "Process Selected PDFs" in sidebar FIRST
+2. Copy one of the enhanced prompts above
+3. Paste in the multi-line query box
+4. Watch for "🎯 Comprehensive Report Mode Activated" message
+5. Wait 30-60 seconds for validated, hallucination-free report
+6. Review the "Data Fidelity Disclaimer" and "AI Consistency Check" sections
+
+WHAT'S DIFFERENT NOW:
+--------------------
+✅ Segment names validated against source documents only
+✅ No hallucinated financial figures - EXACT extraction only
+✅ Mathematical validation (Revenue > EBITDA > PBT > PAT)
+✅ Plausibility checks (ITC debt-free = low Debt-Equity ratio)
+✅ Enhanced disclaimers for missing/estimated data
+✅ "Data Fidelity Disclaimer" section added to every report
+✅ Explicit marking of estimates/projections vs published data
+
+EXPECTED IMPROVEMENTS:
+---------------------
+❌ BEFORE: "Cement Segment: ₹12,111 Cr" (HALLUCINATED - ITC has no Cement segment)
+✅ AFTER: Only FMCG, Hotels, Agri Business, Paperboards listed (VERIFIED from source)
+
+❌ BEFORE: "Revenue: ₹1,43,811 Cr, EBITDA: ₹2,53,111 Cr" (IMPOSSIBLE - EBITDA > Revenue)
+✅ AFTER: "Revenue: ₹67,819 Cr, EBITDA: ₹24,156 Cr" (VALIDATED - correct hierarchy)
+
+❌ BEFORE: "Debt-Equity: 0.65" (WRONG for ITC - company is debt-free)
+✅ AFTER: "Debt-Equity: 0.02" (ACCURATE - reflects ITC's debt-free status)

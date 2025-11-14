@@ -1,0 +1,17 @@
+streamlit
+google-generativeai
+python-dotenv
+langchain
+PyPDF2
+chromadb
+faiss-cpu
+langchain_google_genai
+selenium
+webdriver-manager
+langchain-community
+langchain-core
+langchain-text-splitters
+langchain-ollama
+openai
+langchain-openai
+tiktoken
